@@ -1,6 +1,6 @@
 # Augmented-Reality-Filters-for-Facebook-and-Instagram
 
-# About Spark Ar-
+# About Spark AR Studio-
 
 Spark AR is a studio tool from Facebook that allows users to create their own AR effects for mobile. First launched in 2017, Facebook continues to add capabilities to the platform – most recently, adding in analytics for Instagram and Facebook campaigns. Compatible for Mac and Windows, the AR platform is comparable to tools such as Sketch or Photoshop – only this is for augmented reality. 
 
