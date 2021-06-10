@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/73219080/121478128-4dceed80-c9e6-11eb-
 Follow the following steps to run Augmented Reality Projects -
 
 1. Clone the source code - 
-
+   https://github.com/ArjitG007/Augmented-Reality-Filters-for-Facebook-and-Instagram
 
 2. Download the Spark AR Studio - 
    https://sparkar.facebook.com/ar-studio/download/
